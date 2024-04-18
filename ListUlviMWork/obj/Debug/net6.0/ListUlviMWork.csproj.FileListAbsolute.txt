@@ -1,0 +1,14 @@
+C:\Users\Asus\OneDrive\Masaüstü\ListUlviMWork\bin\Debug\net6.0\ListUlviMWork.exe
+C:\Users\Asus\OneDrive\Masaüstü\ListUlviMWork\bin\Debug\net6.0\ListUlviMWork.deps.json
+C:\Users\Asus\OneDrive\Masaüstü\ListUlviMWork\bin\Debug\net6.0\ListUlviMWork.runtimeconfig.json
+C:\Users\Asus\OneDrive\Masaüstü\ListUlviMWork\bin\Debug\net6.0\ListUlviMWork.dll
+C:\Users\Asus\OneDrive\Masaüstü\ListUlviMWork\bin\Debug\net6.0\ListUlviMWork.pdb
+C:\Users\Asus\OneDrive\Masaüstü\ListUlviMWork\obj\Debug\net6.0\ListUlviMWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Masaüstü\ListUlviMWork\obj\Debug\net6.0\ListUlviMWork.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Masaüstü\ListUlviMWork\obj\Debug\net6.0\ListUlviMWork.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Masaüstü\ListUlviMWork\obj\Debug\net6.0\ListUlviMWork.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Masaüstü\ListUlviMWork\obj\Debug\net6.0\ListUlviMWork.dll
+C:\Users\Asus\OneDrive\Masaüstü\ListUlviMWork\obj\Debug\net6.0\refint\ListUlviMWork.dll
+C:\Users\Asus\OneDrive\Masaüstü\ListUlviMWork\obj\Debug\net6.0\ListUlviMWork.pdb
+C:\Users\Asus\OneDrive\Masaüstü\ListUlviMWork\obj\Debug\net6.0\ListUlviMWork.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Masaüstü\ListUlviMWork\obj\Debug\net6.0\ref\ListUlviMWork.dll
